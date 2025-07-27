@@ -1,3 +1,4 @@
+![Sentiment Analysis](https://exemplary.ai/img/blog/sentiment-analysis/sentiment-analysis.svg)
 # Twitter Sentiment Analysis Using TextBlob
 
 This project performs sentiment analysis on a dataset of tweets using the TextBlob library. It classifies each tweet as positive, negative, or neutral based on its polarity score and provides visualizations to explore the overall sentiment distribution and topic-specific sentiment.
